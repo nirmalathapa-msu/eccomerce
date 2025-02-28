@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eccomerce/static/css/main.37b5582f.css",
+    "main.js": "/eccomerce/static/js/main.fa1f0166.js",
+    "static/js/453.d855a71b.chunk.js": "/eccomerce/static/js/453.d855a71b.chunk.js",
+    "static/media/poppins-latin-400-normal.woff": "/eccomerce/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/eccomerce/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/eccomerce/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/eccomerce/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
+    "index.html": "/eccomerce/index.html",
+    "main.37b5582f.css.map": "/eccomerce/static/css/main.37b5582f.css.map",
+    "main.fa1f0166.js.map": "/eccomerce/static/js/main.fa1f0166.js.map",
+    "453.d855a71b.chunk.js.map": "/eccomerce/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b5582f.css",
+    "static/js/main.fa1f0166.js"
+  ]
+}
